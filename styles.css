@@ -1,11 +1,10 @@
 .blue {
-    color: rgba(255, 255, 0, .5);
-    color: #00000000;
-    color: hsla(0, 100%, 50%, 0);
+    color: rgb(17, 0, 255)
 }
 
 h1 {
     color: green;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body {
