@@ -39,11 +39,9 @@ ol {
   .right {
     display: block;
     margin-left: auto;
-    width: 50%;
   }
 
   .left {
     display: block;
     margin-right: auto;
-    width: 50%;
   }
