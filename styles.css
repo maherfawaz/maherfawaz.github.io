@@ -29,6 +29,10 @@ ol {
     text-align: center;
 }
 
+li {
+    text-align: center;
+}
+
 .center {
     display: block;
     margin-left: auto;
